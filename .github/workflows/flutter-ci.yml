@@ -1,8 +1,5 @@
 name: Test, Build and Release apk
-# This workflow is triggered on pushes to the repository.
-# Reference Link:- https://medium.com/mobile-development-group/github-actions-for-flutter-cf02923d7b5d
-# Reference Link:- https://medium.com/better-programming/ci-cd-for-flutter-apps-using-github-actions-b833f8f7aac
-# Reference Link:- https://github.com/marketplace/actions/flutter-action
+
 on:
   push:
     branches:
